@@ -11,4 +11,6 @@
 
 [SpringMVC基本原理](https://www.cnblogs.com/t3306/p/7244134.html)
 
+[Spring Bean初始化过程](https://www.cnblogs.com/fyx158497308/p/3977391.html)
+
 
