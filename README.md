@@ -4,6 +4,12 @@
 [数据结构可视化学习](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## Java
+[java基础思维导图，让java不再难懂](https://www.jianshu.com/p/6a589ffbf34c)
+
+[HashMap数据结构及源码解读](https://www.cnblogs.com/rogerluo1986/p/5851300.html)
+
+[JUC并发包](https://www.jianshu.com/p/c60f41af86c2)
+
 [AbstractQueuedSynchronizer的介绍和原理分析](http://ifeve.com/introduce-abstractqueuedsynchronizer/) (最终基于CAS实现)
 
 ## Spring
