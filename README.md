@@ -19,4 +19,7 @@
 
 [Spring Bean初始化过程](https://www.cnblogs.com/fyx158497308/p/3977391.html)
 
+## 代码质量
+[怎样编写高质量的java代码](http://www.cnblogs.com/leefreeman/p/3585032.html)
+
 
