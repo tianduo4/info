@@ -22,4 +22,6 @@
 ## 代码质量
 [怎样编写高质量的java代码](http://www.cnblogs.com/leefreeman/p/3585032.html)
 
+[程序员该有的艺术气质—SOLID原则](http://www.cnblogs.com/lanxuezaipiao/archive/2013/06/09/3128665.html)
+
 
