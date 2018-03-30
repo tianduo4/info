@@ -8,9 +8,13 @@
 
 [HashMap数据结构及源码解读](https://www.cnblogs.com/rogerluo1986/p/5851300.html)
 
+[Java8系列之重新认识HashMap](http://www.importnew.com/20386.html)
+
 [JUC并发包](https://www.jianshu.com/p/c60f41af86c2)
 
 [AbstractQueuedSynchronizer的介绍和原理分析](http://ifeve.com/introduce-abstractqueuedsynchronizer/) (最终基于CAS实现)
+
+[攻破JAVA NIO技术壁垒](http://www.importnew.com/19816.html)
 
 ## Spring
 [Spring 框架简介](https://www.ibm.com/developerworks/cn/java/wa-spring1/)
