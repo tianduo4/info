@@ -18,6 +18,8 @@
 
 [Java线程的5种状态及切换](https://blog.csdn.net/pange1991/article/details/53860651)
 
+[JVM参数设置、分析](http://www.cnblogs.com/redcreen/archive/2011/05/04/2037057.html)
+
 ## Spring
 [Spring 框架简介](https://www.ibm.com/developerworks/cn/java/wa-spring1/)
 
@@ -44,7 +46,12 @@ We5X
 
 HBuilder
 
+##数据生成器
+[数据生成器](https://gitee.com/ysc/data-generator) 
 
+
+##史上最全的开发和设计资源大全
+[史上最全的开发和设计资源大全](https://mp.weixin.qq.com/s/cjaj_-gX6MhqMXSrqchFbg)
 
 
 
