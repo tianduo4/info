@@ -46,11 +46,11 @@ We5X
 
 HBuilder
 
-##数据生成器
+## 数据生成器
 [数据生成器](https://gitee.com/ysc/data-generator) 
 
 
-##史上最全的开发和设计资源大全
+## 史上最全的开发和设计资源大全
 [史上最全的开发和设计资源大全](https://mp.weixin.qq.com/s/cjaj_-gX6MhqMXSrqchFbg)
 
 
