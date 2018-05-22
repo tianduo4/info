@@ -54,4 +54,18 @@ HBuilder
 [史上最全的开发和设计资源大全](https://mp.weixin.qq.com/s/cjaj_-gX6MhqMXSrqchFbg)
 
 
+## chrome插件
+octotree
+能够生成github项目代码插件，在github上就可以快速浏览代码
+
+sourcegraph
+同样用于github，能够在网页上进行代码的跳转
+
+jsonView
+将请求数据格式化，直接双击network的api链接就可以跳转，十分方便
+
+restlet-client
+支持restful的请求客户端
+
+
 
