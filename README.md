@@ -33,6 +33,14 @@
 
 [](https://htmlpreview.github.io/?https://github.com/get-set/reactor-core/blob/master-zh/src/docs/index.html)
 
+## 数据库
+[详解数据库innodb lock机制](https://my.oschina.net/u/2342969/blog/1813772)
+
+[在一个千万级的数据库查寻中，如何提高查询效率](https://mp.weixin.qq.com/s/CGnjblo7qj2NOx9Gsh6IKA)
+
+## 大数据
+[终于有人把云计算、大数据和人工智能讲明白了](https://mp.weixin.qq.com/s/74_MLeDGcHPEAYbokFONkQ)
+
 ## 代码质量
 [怎样编写高质量的java代码](http://www.cnblogs.com/leefreeman/p/3585032.html)
 
@@ -52,6 +60,13 @@ HBuilder
 
 ## 史上最全的开发和设计资源大全
 [史上最全的开发和设计资源大全](https://mp.weixin.qq.com/s/cjaj_-gX6MhqMXSrqchFbg)
+
+[Java后端工程师2018书单推荐](https://mp.weixin.qq.com/s/n1l-wi-uyXGb0KG94EZ9wg)
+
+## 面试
+[程序员面试常遇到的十大“套路”](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247485988&idx=2&sn=7ffb75e90f52bcd8d71065e69d876ecd&chksm=eb538f12dc2406041c4617b92d3536b1851ab57cb9887908421c9da10f03caed93babd0740e9&mpshare=1&scene=1&srcid=0522yPiMBn594V9cpzGgmKdp#rd)
+
+[超全的多线程面经附答案](https://mp.weixin.qq.com/s/TOdZEI7-TSozEnedKmY-Vg)
 
 
 ## chrome插件
