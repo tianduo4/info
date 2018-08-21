@@ -1,5 +1,6 @@
 # 学习笔记
 
+
 ## 数据结构
 [数据结构可视化学习](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
@@ -33,13 +34,29 @@
 
 [](https://htmlpreview.github.io/?https://github.com/get-set/reactor-core/blob/master-zh/src/docs/index.html)
 
+## Mybatis
+[MyBatis架构](https://blog.csdn.net/heiyueya/article/details/68958451)
+
+[MyBatis源码解析](https://www.cnblogs.com/question-sky/p/7251399.html?utm_source=itdadao&utm_medium=referral)
+
+## Zookeeper
+[Zookeeper](https://www.cnblogs.com/davidwang456/p/4966465.html)
+
 ## 数据库
 [详解数据库innodb lock机制](https://my.oschina.net/u/2342969/blog/1813772)
 
+[微服务化的数据库设计与读写分离](https://mp.weixin.qq.com/s/z8HQK4W4S9EKRB87mgKylA)
+
 [在一个千万级的数据库查寻中，如何提高查询效率](https://mp.weixin.qq.com/s/CGnjblo7qj2NOx9Gsh6IKA)
+
+## Linux
+[Linux命令大全](http://man.linuxde.net/)
 
 ## 大数据
 [终于有人把云计算、大数据和人工智能讲明白了](https://mp.weixin.qq.com/s/74_MLeDGcHPEAYbokFONkQ)
+
+## 协议
+[关于HTTP协议，一篇就够了](https://www.cnblogs.com/ranyonsue/p/5984001.html)
 
 ## 代码质量
 [怎样编写高质量的java代码](http://www.cnblogs.com/leefreeman/p/3585032.html)
@@ -56,6 +73,7 @@ HBuilder
 
 ## 数据生成器
 [数据生成器](https://gitee.com/ysc/data-generator) 
+
 
 
 ## 史上最全的开发和设计资源大全
@@ -82,5 +100,5 @@ jsonView
 restlet-client
 支持restful的请求客户端
 
-
+[程序员必懂知识](https://github.com/mtdvio/every-programmer-should-know)
 
