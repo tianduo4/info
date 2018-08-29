@@ -21,6 +21,9 @@
 
 [JVM参数设置、分析](http://www.cnblogs.com/redcreen/archive/2011/05/04/2037057.html)
 
+
+[搞定JVM垃圾回收就是这么简单](https://juejin.im/post/5b85ea54e51d4538dd08f601)
+
 ## Spring
 [Spring 框架简介](https://www.ibm.com/developerworks/cn/java/wa-spring1/)
 
@@ -43,11 +46,18 @@
 [Zookeeper](https://www.cnblogs.com/davidwang456/p/4966465.html)
 
 ## 数据库
+
 [详解数据库innodb lock机制](https://my.oschina.net/u/2342969/blog/1813772)
+
+[mysql数据库-MyISAM与InnoDB两个存储引擎的索引实现方式](https://blog.csdn.net/chenchaofuck1/article/details/51385261)
 
 [微服务化的数据库设计与读写分离](https://mp.weixin.qq.com/s/z8HQK4W4S9EKRB87mgKylA)
 
 [在一个千万级的数据库查寻中，如何提高查询效率](https://mp.weixin.qq.com/s/CGnjblo7qj2NOx9Gsh6IKA)
+
+[InnoDB事务和锁](https://www.cnblogs.com/itfenqing/p/6802497.html)
+
+[MySQL 死锁检查处理](https://blog.csdn.net/kk185800961/article/details/79528841)
 
 ## Linux
 [Linux命令大全](http://man.linuxde.net/)
@@ -57,6 +67,10 @@
 
 ## 协议
 [关于HTTP协议，一篇就够了](https://www.cnblogs.com/ranyonsue/p/5984001.html)
+
+[HTTP协议详解](https://www.cnblogs.com/wangning528/p/6388464.html)
+
+[TCP建立连接和断开连接图解](https://www.cnblogs.com/LCCRNblog/p/5228648.html)
 
 ## 代码质量
 [怎样编写高质量的java代码](http://www.cnblogs.com/leefreeman/p/3585032.html)
@@ -74,6 +88,9 @@ HBuilder
 ## 数据生成器
 [数据生成器](https://gitee.com/ysc/data-generator) 
 
+## 云计算
+[Docker Windows7 64bit 安装 docker 环境](https://testerhome.com/topics/11050)
+
 
 
 ## 史上最全的开发和设计资源大全
@@ -86,6 +103,8 @@ HBuilder
 
 [超全的多线程面经附答案](https://mp.weixin.qq.com/s/TOdZEI7-TSozEnedKmY-Vg)
 
+# 个人代理
+[Vultr vps搭建属于自己的ss 代理](https://segmentfault.com/a/1190000015067117?utm_source=tag-newest)
 
 ## chrome插件
 octotree
@@ -101,4 +120,15 @@ restlet-client
 支持restful的请求客户端
 
 [程序员必懂知识](https://github.com/mtdvio/every-programmer-should-know)
+
+## Python
+
+## Go
+[Golang指南：顶级Golang框架、IDE和工具列表](https://www.itcodemonkey.com/article/1053.html)
+
+## 成长鸡汤
+[坚持个人博客的缘由](https://my.oschina.net/u/1859679/blog/1596033)
+
+## 书单
+拆掉思维里的墙
 
