@@ -61,6 +61,7 @@
 
 ## Linux
 [Linux命令大全](http://man.linuxde.net/)
+[awk进行nginx日志统计](https://www.cnblogs.com/276815076/p/6410179.html)
 
 ## 大数据
 [终于有人把云计算、大数据和人工智能讲明白了](https://mp.weixin.qq.com/s/74_MLeDGcHPEAYbokFONkQ)
@@ -118,6 +119,9 @@ jsonView
 
 restlet-client
 支持restful的请求客户端
+
+## idea插件
+[Java 程序员必备的 Intellij IDEA 插件](https://mp.weixin.qq.com/s/7l5YcIcaL3DC3FW106BP-Q)
 
 [程序员必懂知识](https://github.com/mtdvio/every-programmer-should-know)
 
