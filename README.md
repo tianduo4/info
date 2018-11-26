@@ -21,6 +21,8 @@
 
 [JVM参数设置、分析](http://www.cnblogs.com/redcreen/archive/2011/05/04/2037057.html)
 
+[详细介绍Java虚拟机（JVM）](https://www.cnblogs.com/IUbanana/p/7067362.html)
+
 
 [搞定JVM垃圾回收就是这么简单](https://juejin.im/post/5b85ea54e51d4538dd08f601)
 
@@ -65,6 +67,8 @@
 
 ## 大数据
 [终于有人把云计算、大数据和人工智能讲明白了](https://mp.weixin.qq.com/s/74_MLeDGcHPEAYbokFONkQ)
+
+[elasticsearch官方文档](https://www.elastic.co/guide/cn/elasticsearch/guide/current/distributed-docs.html)
 
 ## 协议
 [关于HTTP协议，一篇就够了](https://www.cnblogs.com/ranyonsue/p/5984001.html)
